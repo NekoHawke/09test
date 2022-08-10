@@ -57,7 +57,7 @@ const questions = () => {
                 if (emailInput) {
                     return true;
                 } else {
-                    console.log('Please enter your email!');
+                    console.log('Enter your email');
                     return false
                 }
             }
